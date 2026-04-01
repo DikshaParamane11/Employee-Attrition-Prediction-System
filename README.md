@@ -150,6 +150,3 @@ employee_attrition_project/
 ---
 
 # ⭐ If you like this project, give it a star!
-
-Just tell me 👍
-
